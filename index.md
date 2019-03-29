@@ -3,6 +3,7 @@ layout: page
 title: Vainilla Pe
 tagline: Vainilla
 description: Vainilla en Perú
+menues: About, License
 ---
 
 # Bienvenidos
