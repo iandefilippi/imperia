@@ -4,8 +4,20 @@ title: Vainilla Pe
 tagline: Vainilla
 description: Vainilla en Perú
 ---
+#Bienvenidos
 
-Esta es la página _principal_
+## Segundo nivel
+
+Esta es la *página* _principal_
+
+* Uno
+* Dos
+
+1. Uno
+2. Dos
+
+> Frase
+> Más
 
 ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/4/40/Vanilla_planifolia_1.jpg)
 
