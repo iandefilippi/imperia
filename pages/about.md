@@ -4,4 +4,4 @@ title: Nosotros
 #description: S
 ---
 
-Acerca de [Vainilla Pe](index.html).
+Acerca de [Vainilla Pe](../index.html).
