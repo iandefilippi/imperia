@@ -4,9 +4,10 @@ title: Vainilla Pe
 tagline: Vainilla
 description: Vainilla en Perú
 ---
-##Bienvenidos
 
-### Segundo nivel
+# Bienvenidos
+
+## Segundo nivel
 
 ### Tercer nivel
 
