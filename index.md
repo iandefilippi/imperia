@@ -7,7 +7,7 @@ description: Vainilla en Perú
 
 Esta es la página _principal_
 
-- [Nosotros](about.html)
+- [Nosotros](posts/about.html)
 
 ---
 
