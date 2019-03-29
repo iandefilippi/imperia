@@ -12,7 +12,7 @@ menues: About, License
 
 ### Tercer nivel
 
-Esta es la *página* _principal_
+Esta es la **página** _principal_
 
 * Uno
 * Dos
