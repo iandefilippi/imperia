@@ -1,0 +1,8 @@
+menu_title: Menu
+menu:
+
+- title: Nosotros
+  url: about.html
+
+- title: Contacto
+  url: contact_us.html

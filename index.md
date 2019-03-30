@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vainilla Pe
+title: Título página principal
 tagline: Vainilla
 description: Vainilla en Perú
 menues: About, License
