@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vainilla Perú
+#title: Vainilla Perú
 #tagline: Vainilla
 #description: Vainilla en Perú
 ---
