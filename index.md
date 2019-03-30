@@ -1,10 +1,4 @@
 ---
-
-Adiós
-Image attribution: Public Domain, https://commons.wikimedia.org/w/index.php?curid=236915
-
-
----
 layout: page
 title: Vainilla Perú
 #tagline: Vainilla
