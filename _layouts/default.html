@@ -2,8 +2,7 @@
 theme :
   name : twitter
 ---
+{% assign pages_list = site.pages %}  
+
 {% include JB/setup %}
 {% include themes/twitter/default.html %}
-
-{% assign pages_list = site.pages %}  
-{% include JB/pages_list %}
