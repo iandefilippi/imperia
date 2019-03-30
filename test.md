@@ -9,5 +9,4 @@ title: Vainilla Perú
 
 ---
 
-Adiós
 Image attribution: Public Domain, https://commons.wikimedia.org/w/index.php?curid=236915
