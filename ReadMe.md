@@ -1,4 +1,4 @@
-## Simple site: Easy websites with GitHub pages
+## Vainlla Peru
 
 Website for [vainilla.pe](Vainilla Peru)
 ---
