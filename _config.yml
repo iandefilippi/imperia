@@ -17,7 +17,7 @@ author :
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://iandefilippi.github.io/imperia
+#production_url : https://iandefilippi.github.io/imperia
 #production_url : https://www.vainilla.pe
 
 # Tell Github to use the kramdown markdown interpreter
@@ -53,7 +53,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  #BASE_PATH : https://iandefilippi.github.io/imperia
+  BASE_PATH : https://iandefilippi.github.io/imperia
   #BASE_PATH : https://www.vainilla.pe/ #https://vainilla.pe/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
