@@ -9,4 +9,4 @@ layout: page
 
 ---
 
-Image attribution: ![Public Domain](https://unsplash.com/photos/bx0a2yq2hxs)
+Image attribution: [Public Domain](https://unsplash.com/photos/bx0a2yq2hxs)
