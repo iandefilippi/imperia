@@ -101,7 +101,7 @@ JB :
   # a hash with key named for the given helper. ex:
   #
   pages_list :
-    provider : "custom" #false
+    provider : custom #false
     #"custom"
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
